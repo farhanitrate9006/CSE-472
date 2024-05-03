@@ -1,2 +1,2 @@
-# CSE-472
-Assignments of Machine Learning Sessional in 4-2
+# Pneumothorax-Detection
+Machine Learning Project in 4-2
